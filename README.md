@@ -176,6 +176,13 @@ VITE_API_URL=http://localhost:5000
 
 ## 📸 Screenshots (Optional)
 
-👉 *(Add UI screenshots here for better presentation!)*
+Login_page
+<img width="1907" height="609" alt="Screenshot 2025-08-29 145003" src="https://github.com/user-attachments/assets/2b13bef0-053f-44a0-8775-36966182c00c" />
 
+SignUp_page
+<img width="1919" height="661" alt="Screenshot 2025-08-29 145017" src="https://github.com/user-attachments/assets/3190bbee-1ef3-45c3-ab6f-54dcc7e4bdb5" />
 
+BattleGround_pagr
+<img width="1900" height="870" alt="Screenshot 2025-08-29 145125" src="https://github.com/user-attachments/assets/5f183079-3127-4511-aa1a-d42a244d39b1" />
+
+<img width="1668" height="803" alt="Screenshot 2025-08-29 145437" src="https://github.com/user-attachments/assets/669afc39-47d7-4cd5-a66f-b535c03475ba" />
